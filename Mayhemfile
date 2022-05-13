@@ -1,0 +1,5 @@
+project: jacob-clemente/myhtml
+target: myhtml
+
+cmds:
+  - cmd: /html2sexpr @@
